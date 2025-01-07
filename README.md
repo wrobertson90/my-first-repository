@@ -1,5 +1,7 @@
 # my-first-repository
-check the vba folder
+different module assignments as well as project informations
+
+
 git add .
 git commit -m "()"
 git push
